@@ -7,13 +7,7 @@ context('Pricing', () => {
         cy.visit('https://www.alfa.smartlook.cloud/pricing/?currencyCode=CZK')
     })
 
-    it('Website packages test case', () => {
-        // Check prices of website Startup package and Business package, that they are 350 CZK and 1592 CZK
-    })
-
-    it('Mobile packages', () => {
-        // Check prices of mobile Startup package and Business package, that they are 960 CZK and 1960 CZK
-    })
+    // Check prices of packages
 
     // Test that 'Build a plan' button works and the modal is behaving as expected - prices and limits
 
