@@ -13,12 +13,14 @@ We use Cypress library for the testing, so I guess https://docs.cypress.io/guide
 
 How to make it work:
 
-1) Install using
+1. Install using
+
 ```
 npm install
 ```
 
-2) Tests can be run using
+2. Tests can be run using
+
 ```
 npm test
 ```
