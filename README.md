@@ -5,6 +5,7 @@ this is a sample cypress project that contains two spec files located in integra
 
 - pricing.spec.ts
 - signIn.spec.ts
+- custom.spec.ts
 
 Your task is to read instructions in each file and write some tests.
 How many depends on you, but it should cover the basic functionality.
