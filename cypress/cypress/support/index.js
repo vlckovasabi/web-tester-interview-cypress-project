@@ -16,8 +16,5 @@
 // Import commands.js using ES2015 syntax:
 import './commands'
 
-declare namespace Cypress {
-    interface Chainable {
-      checkLogin()
-    }
-  }
+// Alternatively you can use CommonJS syntax:
+// require('./commands')
